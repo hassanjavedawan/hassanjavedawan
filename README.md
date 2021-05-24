@@ -38,10 +38,10 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanjavedawan&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=@hassanjavedawan&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanjavedawan&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=@hassanjavedawan&repo=convoychat" />
 </a>
 
 <br>
@@ -52,5 +52,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjavedawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjavedawan&show_icons=true)
 
