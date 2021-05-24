@@ -36,11 +36,11 @@
 <a href = 'https://stackoverflow.com/users/16009772/hassanjavedawan'> <img width = '52px' align= 'center' src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/></a> 
   <a href = 'https://www.facebook.com/hassanj72'><img width = '32px' align= 'center' src="https://www.svgrepo.com/show/111203/facebook.svg"/> </a> 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/hassanjavedawan">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hassanjavedawan&compact=True"/>
 </a>
-<br>
+<br> -->
 
 
 
