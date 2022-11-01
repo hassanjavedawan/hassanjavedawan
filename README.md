@@ -8,7 +8,7 @@
 </div>
 
 <h2> About Me</h2>
-<p>I am Hassan an energetic and dedicated professional web & mobile Application Developer. I am always looking for clients who challenge me creatively. I know how to survive in this industry and I want to help your business do the same. I enjoy building everything from small business sites and applications to rich interactive web and mobile apps. if you are a business seeking a web & mobile apps presence or an employer looking to hire, you can get in touch with me here.</p>
+<p>Full stack web developer with a demonstrated history of working in the computer software industry skilled in JavaScript libraries including React JS, Next JS, Node JS, Express JS, GitHub, Web3.0, Blockchain, etc. Also an accomplished Team leader. I enjoy building everything from small business sites and applications to rich interactive web3.0 and decentralized applications.</p>
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
