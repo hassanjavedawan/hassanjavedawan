@@ -8,7 +8,10 @@
 </div>
 
 <h2> About Me</h2>
-<p>Full stack web developer with a demonstrated history of working in the computer software industry skilled in JavaScript libraries including React JS, Next JS, Node JS, Express JS, GitHub, Web3.0, Blockchain, etc. Also an accomplished Team leader. I enjoy building everything from small business sites and applications to rich interactive web3.0 and decentralized applications.</p>
+<p>I am an experienced full-stack developer with a strong background in blockchain technology, React, and React Native. I have a passion for developing scalable and robust applications that solve real-world problems. My expertise in full-stack development includes working with various technologies such as Node.js, Python, and Ruby on Rails, and I am well-versed in both relational and non-relational databases.</p>
+  <p>In addition, I have extensive experience in developing decentralized applications using blockchain technology. I have worked with various blockchain frameworks, such as Ethereum and Hyperledger Fabric, and have a strong understanding of smart contract development using Solidity and Chaincode.</p>
+  <p>As a React and React Native developer, I have worked on several projects, including e-commerce websites, social media platforms, and mobile applications. I am proficient in developing responsive, user-friendly, and intuitive user interfaces using React, and I have a strong understanding of the underlying principles of React Native.
+Overall, I am a highly motivated and dedicated developer who enjoys solving complex problems and creating innovative solutions. I am always looking for new challenges and opportunities to grow and learn.</p>
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
