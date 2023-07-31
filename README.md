@@ -53,3 +53,6 @@ Overall, I am a highly motivated and dedicated developer who enjoys solving comp
 
   <br/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanjavedawan&show_icons=true&locale=en" alt="hassanjavedawan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanjavedawan&" alt="hassanjavedawan" /></p>
