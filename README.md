@@ -51,7 +51,6 @@ Overall, I am a highly motivated and dedicated developer who enjoys solving comp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjavedawan&layout=compact)](https://github.com/hassanjavedawan/github-readme-stats)
 
-  <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanjavedawan&show_icons=true&locale=en" alt="hassanjavedawan" /></p>
 
